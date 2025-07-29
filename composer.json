@@ -1,0 +1,19 @@
+{
+    "name": "makhnanov/php-global-singleton",
+    "description": "PHP Singleton Implementation.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "RomaxaCoder"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "global-singleton.php"
+        ]
+    },
+    "require": {
+        "php": ">=8.4"
+    }
+}
